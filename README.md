@@ -1,1 +1,1 @@
-# COVID-Probabitlity-Detector
+# COVID Probabitlity Detector
