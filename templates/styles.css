@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* NAvigation bar */
+#title {
+background: rgba(0,0,0,0.7);
+}
+
+#navbar {
+padding: 0 0 5px;
+}
+
+#navbar-brand {
+text-decoration: none;
+color:#fdfffc;
+font-family: Ubuntu;
+font-size: 2rem;
+font-weight: bold;
+padding-left: 2rem;
+}
+
+.nav-item {
+padding: 0 20px;
+}
+
+.nav-link {
+font-size: 1.3rem;
+}
+
+
+/* footer section */
+#footer {
+margin-top: 100px;
+padding: 5% auto;
+text-align: center;
+}
+
+.social-icon {
+margin: 10px 5px;
+}
+.social-icon:hover{
+cursor: pointer;
+padding:0 5px ;
+}
